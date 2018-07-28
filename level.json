@@ -1,0 +1,11 @@
+{
+  "platformPositions": [{ "x": 400, "y": 400 }, { "x": -250, "y": 350 }],
+  "starPositions": [
+    { "x": 600, "y": 400 },
+    { "x": 300, "y": 400 },
+    { "x": 200, "y": 400 }
+  ],
+  "starBounce": 0.9,
+  "heroPosition": { "x": 5, "y": 5 },
+  "heroGravity": 300  
+ }
